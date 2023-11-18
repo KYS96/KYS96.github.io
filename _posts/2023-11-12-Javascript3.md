@@ -19,7 +19,7 @@ published: true
 ```html
 <ul class="genres">
   <li>
-    <button class="genre genre--selected" data-category="all">액션</button>
+    <button class="genre genre--selected" data-category="all">전체</button>
   </li>
   <li>
     <button class="genre" data-category="action">액션</button>
