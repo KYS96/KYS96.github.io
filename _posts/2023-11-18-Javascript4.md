@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Javascript : 기본연습4"
+title: "Javascript : 기본연습4 (IntersectionObserver)"
 author_profile: false
 toc: true
 toc_sticky: true
