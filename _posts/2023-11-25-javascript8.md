@@ -137,6 +137,7 @@ console.log(user.hasOwnProperty('email'));
 
 ### 활용예제
 
+<!--
 ```javascript
 function Fruit(name, weight, growDate) {
   this.name = name;
@@ -159,6 +160,7 @@ const apple = new Fruit('apple', 7, '2023-10-16');
 console.log(kiwi);
 console.log(apple);
 ```
+-->
 
 <br>
 
