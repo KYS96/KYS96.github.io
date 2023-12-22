@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JAVA : 세션 - session"
+title: "JAVA : 세션 - session(1)"
 author_profile: false
 toc: true
 toc_sticky: true
