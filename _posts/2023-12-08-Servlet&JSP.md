@@ -6,6 +6,8 @@ toc: true
 toc_sticky: true
 published: true
 categories: [Servlet, JSP]
+sidebar:
+  nav: "counts"
 ---
 
 <br>

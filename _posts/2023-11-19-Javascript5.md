@@ -6,6 +6,8 @@ toc: true
 toc_sticky: true
 published: true
 categories: javascript
+sidebar:
+  nav: "counts"
 ---
 
 <div class="notice--primary">

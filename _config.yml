@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "KYS96"
-  avatar           : "/assets/images/kys_profile.jpg"
-  bio              : "Hello!"
+  name             : # "KYS96"
+  avatar           : # "/assets/images/kys_profile.jpg"
+  bio              : # "Hello!"
   location         : "South Korea"
   email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kkyyss1996@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://KYS96.github.io"
+    # - label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:kkyyss1996@gmail.com"
+    # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://KYS96.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KYS96"

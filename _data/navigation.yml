@@ -12,3 +12,7 @@ main:
   #   url: /sitemap/
   - title: "카테고리"
     url: /categories/
+
+counts:
+  - title: "카테고리"
+    use: true
