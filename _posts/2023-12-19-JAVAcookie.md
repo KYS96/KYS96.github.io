@@ -5,6 +5,7 @@ author_profile: false
 toc: true
 toc_sticky: true
 published: true
+categories: [JAVA, SpringFramework]
 ---
 
 # 쿠키는?
